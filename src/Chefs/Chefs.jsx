@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Cheflist from '../components/cheflist'
+import ChefList from '../components/ChefList'
 import Menuitems from '../components/Menuitems'
 
 
@@ -13,7 +13,7 @@ function Chefs() {
    <Navbar/>
 
 
-<Cheflist/>
+<ChefList/>
 <Menuitems/>
 
   <Footer/>
