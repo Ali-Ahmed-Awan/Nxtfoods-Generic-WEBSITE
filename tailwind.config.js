@@ -43,5 +43,7 @@ export default {
       }
     },
   },
-  plugins: [scrollbar],
+  plugins: [scrollbar, 
+    require('daisyui'),],
+  
 };
