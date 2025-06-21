@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-function ChefList() {
+function Clist() {
   const [scrollX, setScrollX] = useState(0);
 
   useEffect(() => {
@@ -49,4 +49,4 @@ function ChefList() {
   );
 }
 
-export default ChefList;
+export default Clist;
